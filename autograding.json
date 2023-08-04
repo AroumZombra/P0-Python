@@ -1,0 +1,34 @@
+{
+  "tests": [
+    {
+      "name": "question 1",
+      "setup": "",
+      "run": "python autograder.py -q q1",
+      "input": "",
+      "output": "### Question q1: 1/1 ###",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "question 2",
+      "setup": "",
+      "run": "python autograder.py -q q2",
+      "input": "",
+      "output": "### Question q2: 1/1 ###",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "question 3",
+      "setup": "",
+      "run": "python autograder.py -q q3",
+      "input": "",
+      "output": "### Question q3: 1/1 ###",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
